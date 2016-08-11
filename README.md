@@ -7,7 +7,7 @@ To submit your answers, create a Google doc with sections for each task. For eac
 
 ###Tasks
 
-1. Which RDMS did you use to complete this test? Why did you use this product?
+1. Which RDBMS did you use to complete this test? Why did you use this product?
 
 2. What is the name of the employee with the highest salary? Use SQL to determine and provide with answer.
 
