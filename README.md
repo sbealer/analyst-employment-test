@@ -8,7 +8,7 @@ To submit your answers, create a Google doc with sections for each task (1, 2-i,
 2. **Using the employees and salary tables:**
   1. What is the name of the employee with the highest salary? Use SQL to determine and provide with answer.
   2. In which year did the company hire the most employees? Use SQL to determine and provide with answer.
-  4. **Extra credit:**
+  3. **Extra credit:**
     1. Join the projects table to the employees table to determine the name of the employee who has worked on the most projects. Use SQL to determine and provide with answer.
     2. Join the employees, salary and projects tables together to determine salary of the employee who has worked on the least amount of projects.
     
@@ -18,6 +18,8 @@ To submit your answers, create a Google doc with sections for each task (1, 2-i,
   3. Provide the customer_id of the customer who has the greatest number of purchases.
   
 4. **Provide screenshots of the following graphs (you can use Google spreadsheets to create the graphs):**
-  1. A bar chart showing revenue per year with X axis being year, Y axis being revenue.
+  1. A column chart showing revenue per year with X axis being year, Y axis being revenue.
   2. A bar chart showing employee_id and salary sorted by salary least to greatest.
   3. A bar chart showing employee_id and total hours worked on all projects sorted least to greatest.
+  	1. **Extra credit:**
+  		1. Provide a chart of your choice showing something from the dataset that you found interesting.
