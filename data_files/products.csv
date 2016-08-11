@@ -11,7 +11,7 @@ product_id,manufacturer,sku,name,price,stock,category_id,lf_code
 10,Foen,747903781-3,Foen-747903781-3,$738.82,838,0,A
 11,Handsgrope,595378576-3,Handsgrope-595378576-3,$130.02,730,5,A
 12,Hohler,343680990-X,Hohler-343680990-X,$919.84,453,3,A
-13,Hohler,988829397-4,Hohler-988829397-4,$757.33,905,1,A
+13,Hohler,988829397-4,Hohler-988829397-4,$757.33,905,1,Aa
 14,Phunter,129246096-2,Phunter-129246096-2,$148.08,218,3,A
 15,Kuravent,721957555-6,Kuravent-721957555-6,$940.77,3,4,A
 16,Phunter,445955281-7,Phunter-445955281-7,$851.26,561,4,A
