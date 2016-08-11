@@ -21,5 +21,5 @@ To submit your answers, create a Google doc with sections for each task (1, 2-i,
   1. A column chart showing revenue per year with X axis being year, Y axis being revenue.
   2. A bar chart showing employee_id and salary sorted by salary least to greatest.
   3. A bar chart showing employee_id and total hours worked on all projects sorted least to greatest.
-  	1. **Extra credit:**
-  		1. Provide a chart of your choice showing something from the dataset that you found interesting.
+  4. **Extra credit:**
+  	1. Provide a chart of your choice showing something from the dataset that you found interesting.
