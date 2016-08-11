@@ -16,6 +16,8 @@ To submit your answers, create a Google doc with sections for each task (1, 2-i,
   1. In which year/month were the most products sold? How much simple revenue (sum of product_price for all items purchased that month) did the company earn?
   2. How many orders were placed in July 2015?
   3. Provide the customer_id of the customer who has the greatest number of purchases.
+  4. **Extra credit:**
+  	1. Which category has generated the most revenue of all time?
   
 4. **Provide screenshots of the following graphs (you can use Google spreadsheets to create the graphs):**
   1. A column chart showing revenue per year with X axis being year, Y axis being revenue.
