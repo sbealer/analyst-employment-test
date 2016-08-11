@@ -13,7 +13,7 @@ To submit your answers, create a Google doc with sections for each task (1, 2-i,
     2. Join the employees, salary and projects tables together to determine salary of the employee who has worked on the least amount of projects.
     
 3. **Using the orders, order_products, product and category tables:**
-  1. In which year/month were the most products sold? How much simple revenue (sum of product_price for all items purchased that month).
+  1. In which year/month were the most products sold? How much simple revenue (sum of product_price for all items purchased that month) did the company earn?
   2. How many orders were placed in July 2015?
   3. Provide the customer_id of the customer who has the greatest number of purchases.
   
