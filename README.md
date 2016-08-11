@@ -1,4 +1,4 @@
-###Using a free database management system of your choice (MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. 
+###Using a free relational database management system of your choice (MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. 
 
 To submit your answers, create a Google doc with sections for each task (1, 2-i, 2-ii, etc). For each section, provide the answer AND the SQL used (if applicable) to determine that answer.
 
