@@ -1,4 +1,4 @@
-###Using a free relational database management system of your choice (MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. 
+####Using a free relational database management system of your choice (SQLite, MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. **Many users of this test choose SQLiteStudio to load this data and perform the required exercises. SQLiteStudio allows you to easily create a database and import csv as tables.**
 
 To submit your answers, create a Google doc with sections for each task (1, 2-i, 2-ii, etc). For each section, provide the answer AND the SQL used (if applicable) to determine that answer.
 
