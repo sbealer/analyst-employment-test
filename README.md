@@ -1,6 +1,7 @@
-####Using a free relational database management system of your choice (SQLite, MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. **Many users of this test choose SQLiteStudio to load this data and perform the required exercises. SQLiteStudio allows you to easily create a database and import csv as tables.**
+###Description
+Using a free relational database management system of your choice (SQLite, MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. **Many users of this test choose SQLiteStudio to load this data and perform the required exercises. SQLiteStudio allows you to easily create a database and import csv as tables.**
 
-**WARNING:**Please ensure that data types are properly assigned to each column regardless of which RDBMS you choose. If data types are not set correct (e.g. salary as a float, ids as integers, etc) aggregate functions such as 'SUM, 'MAX, etc may not work correctly.
+####WARNING:Please ensure that data types are properly assigned to each column regardless of which RDBMS you choose. If data types are not set correct (e.g. salary as a float, ids as integers, etc) aggregate functions such as 'SUM, 'MAX, etc may not work correctly.####
 
 To submit your answers, create a Google doc with sections for each task (1, 2-i, 2-ii, etc). For each section, provide the answer AND the SQL used (if applicable) to determine that answer.
 
