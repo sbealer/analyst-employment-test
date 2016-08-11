@@ -19,11 +19,11 @@ To submit your answers, create a Google doc with sections for each task. For eac
 
 6. Provide the `customer_id` of the customer who has the greatest number of purchases.
 
-7. Provide a column chart showing revenue per year with X axis being year, Y axis being revenue.
+7. Provide a screenshot of a column chart showing revenue per year with X axis being year, Y axis being revenue.
 
-8. A bar chart showing employee_id and salary sorted by salary least to greatest.
+8. Provide a screenshot of a bar chart showing employee_id and salary sorted by salary least to greatest.
 
-9. A bar chart showing employee_id and total hours worked on all projects sorted least to greatest.
+9. Provide a screenshot of a bar chart showing employee_id and total hours worked on all projects sorted least to greatest.
 
 ###Extra credit:
 
