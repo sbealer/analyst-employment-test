@@ -21,9 +21,9 @@ To submit your answers, create a Google doc with sections for each task. For eac
 
 7. Provide a screenshot of a column chart showing revenue per year with X axis being year, Y axis being revenue.
 
-8. Provide a screenshot of a bar chart showing employee_id and salary sorted by salary least to greatest.
+8. Provide a screenshot of a bar chart showing employee_id and salary sorted by salary least to greatest. Filter to the top 10 employees.
 
-9. Provide a screenshot of a bar chart showing employee_id and total hours worked on all projects sorted least to greatest.
+9. Provide a screenshot of a bar chart showing employee_id and total hours worked on all projects sorted least to greatest. Filter the chart to the top 10 employees 
 
 ###Extra credit:
 
