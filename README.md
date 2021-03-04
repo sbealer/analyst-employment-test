@@ -1,11 +1,11 @@
-###Description
+### Description
 Using a free relational database management system of your choice (SQLite, MySQL, SQL Server Express, PostgreSQL, etc.) load the comma seperated files found in the data_files directory of this project into individual database tables. Once you have done so, complete the tasks below. **Many users of this test choose SQLiteStudio to load this data and perform the required exercises. SQLiteStudio allows you to easily create a database and import csv as tables.**
 
-####WARNING:Please ensure that data types are properly assigned to each column regardless of which RDBMS you choose (e.g. salary as a float, ids as integers, etc). If data types are not set correctly, aggregate functions such as 'SUM, 'MAX, etc may not work correctly.
+#### WARNING:Please ensure that data types are properly assigned to each column regardless of which RDBMS you choose (e.g. salary as a float, ids as integers, etc). If data types are not set correctly, aggregate functions such as 'SUM, 'MAX, etc may not work correctly.
 
 To submit your answers, create a Google doc with sections for each task. For each section, provide the answer AND the SQL used (if applicable) to determine that answer.
 
-###Tasks
+### Tasks
 
 1. Which RDBMS did you use to complete this test? Why did you use this product?
 
@@ -25,7 +25,7 @@ To submit your answers, create a Google doc with sections for each task. For eac
 
 9. Provide a screenshot of a bar chart showing employee_id and total hours worked on all projects sorted least to greatest. Filter the chart to the top 10 employees 
 
-###Extra credit:
+### Extra credit:
 
 10. Join the `projects` table to the `employees` table to determine the name of the employee who has worked on the most projects. Use SQL to determine and provide with answer.
 11. Join the `employees`, `salary` and `projects` tables together to determine salary of the employee who has worked on the fewest projects.
